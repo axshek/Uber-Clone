@@ -33,8 +33,6 @@ A full-stack Uber-like ride-hailing application built with modern web technologi
 ### ☁️ Others
 
 - JWT for Authentication
-- Cloudinary / AWS S3 for media storage
-- Stripe / Razorpay for payments
 
 ---
 
